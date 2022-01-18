@@ -6,6 +6,6 @@ package com.dnlgdev.feignwebclient;
 public class Log {
 
     public static void log(String message, Object... args) {
-        System.out.println(String.format(message, args));
+//        System.out.println(String.format(message, args));
     }
 }
